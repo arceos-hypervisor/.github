@@ -13,6 +13,8 @@
 
 The unified modular hypervisor based on a modular unikernel, [ArceOS](https://github.com/arceos-org/arceos)
 
+Welcome to join our **[Discussions](https://github.com/orgs/arceos-hypervisor/discussions)**.
+
 ## Design Goal
 
 This project originated from the [discussion/13](https://github.com/orgs/rcore-os/discussions/13) of [rCore-OS](https://github.com/rcore-os) community.
